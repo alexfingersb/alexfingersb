@@ -3,7 +3,7 @@
 <h1>I'm Alex</h1>
 
 <div>
-  I'm a software developer and currently I'm divin into React ecosystem.
+  I'm a software developer and currently I'm diving into the React ecosystem.
 </div>
 
 <!--
