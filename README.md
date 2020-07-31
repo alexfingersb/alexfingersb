@@ -1,22 +1,8 @@
-### Hi there 👋
 
+<img src="https://s.gravatar.com/avatar/90359b0f33f48d5f7d242c6bede9fa18?s=80" alt="Me" />
 <h1>I'm Alex</h1>
 
 <div>
-  I'm a software developer and currently I'm diving into the React ecosystem.
+  I'm a developer of the old ones - but not so old :p - who's currently diving into the React ecosystem.
 </div>
 
-<!--
-**alexfingersb/alexfingersb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning React ecosystem
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
