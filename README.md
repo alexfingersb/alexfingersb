@@ -3,6 +3,6 @@
 <h1>I'm Alex</h1>
 <img src="https://raw.githubusercontent.com/alexfingersb/alexfingersb/master/gh-header.png" alt="Banner whit some info" />
 <div>
-  I'm a developer of the old ones - but not so old :p - who's currently diving into the React ecosystem.
+  I'm a developer of the old ones - but not so old :wink: - who's currently diving into the React ecosystem.
 </div>
 
