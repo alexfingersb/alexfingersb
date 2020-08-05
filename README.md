@@ -8,7 +8,7 @@ I'm passionate about technology and my dog :paw_prints::dog:, a beautiful, funny
 I also like to learn new things, read a good book, and watch Netflix.
 
  :rocket:  &nbsp; Currently working at [e.Sales Integration Solutions](https://esales.com.br)
- <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end usando React
+ <br/> :purple_heart: &nbsp; Falling in love with React ecosystem
  <br/> :blush: &nbsp; I can help you to solve some problem by developing software
  <br/> :on: &nbsp; My current stack: Java Fullstack :muscle: - Struts, JSP, Servlets and so on.
  <br/> :soon: &nbsp; My new stack: ReactJS, Node.js, React Native & Typescript
